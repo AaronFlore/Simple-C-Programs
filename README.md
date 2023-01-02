@@ -1,4 +1,4 @@
-# Simple-C-Programs <br /> 
+# Below are the C Programs included: <br /> 
 **breathHold.c:** A fun game to time how long you can hold your breath for <br />
 **wordCount.c:** Gives a word count of a selected file <br />
 **endianDeterminer.c:** Determines if your computer is big-endian or little-endian <br />
